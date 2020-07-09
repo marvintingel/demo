@@ -14,5 +14,9 @@
   "user":[
     { "username": "bmtest@biomarking.com" , "password": "1qw21qw2"}
   ],
-  
+  "status": false[
+    "data": {
+    "message": "The email address or the password you inputted is incorrect.”
+    }
+   ]
 }
